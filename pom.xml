@@ -63,7 +63,8 @@
      				   </goals>
  				   </execution>       	 
 				</executions>
-	                </plugins>
+			</plugin>
+	        </plugins>
 	</build>
 
 </project>
